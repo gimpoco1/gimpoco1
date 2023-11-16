@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @gimpoco1
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me: impoco126@gmail.com
+👋 Hello, I’m Giacomo
+I'm a passionate Full-Stack Developer with extensive experience in the JavaScript ecosystem. I love building web applications that solve real-world problems and am always eager to learn new technologies.
 
-<!---
-gimpoco1/gimpoco1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning about Javascript Libraries (Next.js, React, Node.js)
+🤝 Open to: Collaborations, freelance projects, job opportunities
+📫 Connect with Me:
+-Email: impoco126@gmail.com
+-LinkedIn: https://www.linkedin.com/in/giacomoimpoco
+
+Feel free to reach out for collaborations or just a chat!
+
+
+
+⭐️ From @gimpoco1 (https://github.com/gimpoco1)
